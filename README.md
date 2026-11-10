@@ -15,17 +15,20 @@ My work spans web development, AI-powered applications, automation and digital t
 ### [Mizaanly](https://mizaanly.com)
 An Islamic inheritance (Faraid) platform focused on accurate calculations, transparent reasoning and established jurisprudential principles.
 
-### Lexis
-A language-learning and vocabulary project designed to make everyday English learning more accessible.
+### [Free Barcode Tools](https://freebarcodetools.com)
+Practical barcode utilities for e-commerce sellers.
 
-### TidyText AI
-An AI-powered writing utility for practical text improvement and everyday productivity.
+### [PIS Platform](https://pis-platform.pages.dev/)
+A platform project built to deliver a focused digital experience.
 
-### Right-to-Rent Log
+### [Right to Rent Log](https://righttorentlog.co.uk)
 A browser-based tool to help landlords in England document Right to Rent checks and calculate follow-up dates.
 
-### Free Barcode Tools
-Practical barcode utilities for e-commerce sellers.
+### [TidyText AI](https://tidytextai.com)
+An AI-powered writing utility for practical text improvement and everyday productivity.
+
+### [Lexis](https://lexis-app.pages.dev/)
+A language-learning and vocabulary project designed to make everyday English learning more accessible.
 
 Some projects are in active development. Their source repositories are private.
 
