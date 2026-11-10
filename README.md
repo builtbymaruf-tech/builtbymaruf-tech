@@ -25,10 +25,10 @@ A platform project built to deliver a focused digital experience.
 A browser-based tool to help landlords in England document Right to Rent checks and calculate follow-up dates.
 
 ### [TidyText AI](https://tidytextai.com)
-An AI-powered writing utility for practical text improvement and everyday productivity.
+An AI-powered writing utility for practical text improvement and everyday productivity, using a Bring Your Own Key (BYOK) model so users connect their own AI provider API key.
 
 ### [Lexis](https://lexis-app.pages.dev/)
-A language-learning and vocabulary project designed to make everyday English learning more accessible.
+A language-learning and vocabulary project designed to make everyday English learning more accessible, with a Bring Your Own Key (BYOK) model that lets users connect their own AI provider API key.
 
 Some projects are in active development. Their source repositories are private.
 
